@@ -11,4 +11,5 @@
 /settings.xml
 .idea/
 *.iml
+.classpath
 
