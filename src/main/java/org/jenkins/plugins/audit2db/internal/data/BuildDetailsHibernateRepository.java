@@ -196,7 +196,7 @@ public class BuildDetailsHibernateRepository extends
     }
 
     /**
-     * @see org.jenkins.plugins.audit2db.data.BuildDetailsRepository#getBuildDetailsByDuration(long)
+     * @see org.jenkins.plugins.audit2db.data.BuildDetailsRepository#getBuildDetailsByDurationRange(long, long)
      */
     @SuppressWarnings("unchecked")
     @Override
